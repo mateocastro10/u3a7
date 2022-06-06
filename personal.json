@@ -1,0 +1,45 @@
+{
+    "__class__": "Manejador",
+    "personales": [
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": null,
+                "apellido": "paez",
+                "nombre": "juan",
+                "sueldo": 103200,
+                "antiguedad": null,
+                "cargo": "simple",
+                "catedra": "JAE",
+                "area": "Eco",
+                "tipoInvestigacion": "Cryptomonedas",
+                "categoriaInventivo": "I",
+                "extra": "10000"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "20-41238745-4",
+                "apellido": "carlez",
+                "nombre": "jacinta",
+                "sueldo": 101200,
+                "antiguedad": "30",
+                "area": "Eco",
+                "tipoInvestigacion": "Cryptomonedas"
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": null,
+                "apellido": "peterson",
+                "nombre": "javier",
+                "sueldo": 120000,
+                "antiguedad": null,
+                "cargo": "semiexclusivo",
+                "catedra": "Eco2"
+            }
+        }
+    ]
+}
